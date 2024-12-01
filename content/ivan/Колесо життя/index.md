@@ -1,7 +1,7 @@
 ---
 
 featured_image: i102.jpg
-title: Колесо життя
+title: Колесо життя (77 картин)
 #type: gallery
 sort_by: Name
 #categories: ["Іван Бровді"]
