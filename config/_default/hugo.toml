@@ -53,6 +53,6 @@ title = ""
 
 [services]
   [services.googleAnalytics]
-    ID = G-MV6QKE3RPY
+    ID = "G-MV6QKE3RPY"
   [services.rss]
     limit = 100
