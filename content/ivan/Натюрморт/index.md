@@ -1,7 +1,7 @@
 ---
 
 featured_image: i125.jpg
-title: Натюрморт
+title: Натюрморт (12 картин)
 #type: gallery
 sort_by: Name
 #categories: ["Іван Бровді"]
