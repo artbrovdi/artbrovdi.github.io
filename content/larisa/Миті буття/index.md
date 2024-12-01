@@ -1,7 +1,7 @@
 ---
 
 featured_image: l32.jpg
-title: Миті буття
+title: Миті буття (33 картини)
 #type: gallery
 sort_by: Name
 #categories: ["Лариса Бровді"]
