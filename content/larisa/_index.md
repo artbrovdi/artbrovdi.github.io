@@ -1,7 +1,7 @@
 ---
 description: 
 #lastmod: 2023-07-05
-title: Лариса Бровді, Заслужена художниця України. Почати перегляд колекції.
+title: (Для перегляду галереї натискайте на фото) Лариса Бровді, Заслужена художниця України.
 featured_image: 2.jpg # default: first image in this directory
 # featured_image on the home page is used for OpenGraph cards, etc.
 menus:
