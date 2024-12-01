@@ -1,7 +1,7 @@
 ---
 
 featured_image: l15.jpg
-title: Грація у русі
+title: Грація у русі (16 картин)
 #type: gallery
 sort_by: Name
 #categories: ["Лариса Бровді"]
