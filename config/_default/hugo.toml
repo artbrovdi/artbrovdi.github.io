@@ -52,7 +52,7 @@ title = ""
     weight = 3
 
 [services]
-[services.googleAnalytics]
-ID = G-MV6QKE3RPY
+  [services.googleAnalytics]
+    ID = G-MV6QKE3RPY
   [services.rss]
     limit = 100
