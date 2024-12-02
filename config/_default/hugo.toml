@@ -51,8 +51,10 @@ title = ""
     url = "https://github.com/nicokaiser/hugo-theme-gallery/"
     weight = 3
 
+
+
 [services]
   [services.googleAnalytics]
-    ID = 'G-MV6QKE3RPY'
+    id = 'G-MV6QKE3RPY'
   [services.rss]
     limit = 100
