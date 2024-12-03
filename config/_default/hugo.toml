@@ -5,8 +5,7 @@ enableRobotsTXT = true
 languageCode = "ua-ua"
 timeZone = "Europe/Kyiv"
 timeout = "360s"
-title = ""
-
+title = "Картини, скульптури творчого підруждя Івана та Лариси Бровді"
 [params]
   defaultTheme = "dark"
   description = "Віртуальна галерея творів"
