@@ -5,11 +5,11 @@ enableRobotsTXT = true
 languageCode = "uk-ua"
 timeZone = "Europe/Kyiv"
 timeout = "360s"
-title = "Картини, скульптури творчого підружжя Бровді"
+title = "Картини, скульптури творчого подружжя Бровді"
 [params]
   defaultTheme = "dark"
   description = "Віртуальна галерея творів"
-  title = "Галерея творів Івана та Лариси Бровді"
+  title = "Галерея Івана та Лариси Бровді"
   [params.author]
     email = "brovdi0806@gmail.com"
     name = "Karolina Brovdi"
