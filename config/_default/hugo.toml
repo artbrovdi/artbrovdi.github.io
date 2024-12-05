@@ -5,11 +5,11 @@ enableRobotsTXT = true
 languageCode = "uk-ua"
 timeZone = "Europe/Kyiv"
 timeout = "360s"
-title = "Картини, скульптури творчого подружжя Бровді"
+title = "Картини та скульптури"
 [params]
   defaultTheme = "dark"
   description = "Віртуальна галерея творів"
-  title = "Галерея Івана та Лариси Бровді"
+  title = "Іван і Лариса Бровді: мистецтво Карпат"
   [params.author]
     email = "brovdi0806@gmail.com"
     name = "Karolina Brovdi"
@@ -46,9 +46,9 @@ title = "Картини, скульптури творчого подружжя 
 
 [menu]
   [[menu.footer]]
-    name = "GitHub"
-    url = "https://github.com/nicokaiser/hugo-theme-gallery/"
-    weight = 3
+    #name = "GitHub"
+    #url = "https://github.com/nicokaiser/hugo-theme-gallery/"
+    #weight = 3
 
 
 
