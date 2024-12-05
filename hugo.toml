@@ -1,6 +1,6 @@
 baseURL = 'https://artbrovdi.github.io/'
-languageCode = 'ua-ua'
-title = ''
+languageCode = 'uk-ua'
+title = 'Іван і Лариса Бровді мистецтво Карпат'
 [module]
   [[module.imports]]
     path = "github.com/nicokaiser/hugo-theme-gallery/v4"
