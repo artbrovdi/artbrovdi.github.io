@@ -21,7 +21,7 @@ resources:
   - src: ii9.jpg
     title: Дівчина з Березного. 1960-ті. Картон, олія. 70x60. Girl from Bereznyi. 1960s. Cardboard, oil.
   - src: i13.jpg
-    title: Тіні предків. 1980-ті. Картон, олія. 70х70. Shadows of ancestors. 1980s. Canvas, oil.
+    title: Тіні предків. 1980-ті. Картон, олія. 70х70. Shadows of ancestors. 1980s. Cardboard, oil.
   - src: ii14.jpg
     title: Поминальний день. 1970-ті. Полотно, олія. 90х100. Praying for deceased. 1970s. Cardboard, oil.
   - src: ii15.jpg
