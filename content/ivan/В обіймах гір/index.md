@@ -8,7 +8,7 @@ sort_by: Name
 resources:
   - src: ii7.jpg
     title: Кошара. 2011. Картон, олія. 70х70. Sheepfold. 2011. Cardboard, oil. 
-   - src: i10.jpg
+  - src: i10.jpg
     title: Тумани. 2010. Полотно, олія. 100х200. Fogs. 2010. Canvas, oil. 
   - src: i18.jpg
     title: На Тисі. 2010. Полотно, олія. 100х100. At Tysa river. 2010. Canvas, oil. 
@@ -50,7 +50,7 @@ resources:
     title: Рідний край 2002 80х60 картон
   - src: i158.jpg
     title: Гуцулки 2010 70х50 картон
-    - src: i162.jpg
+  - src: i162.jpg
     title: Озеро Синевір 1998 100х70
   - src: i164.jpg
     title: Весна 2020 100х100
