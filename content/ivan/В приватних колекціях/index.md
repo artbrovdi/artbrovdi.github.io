@@ -14,7 +14,7 @@ resources:
    title: Спокій високі Татри 2013 100х100
  - src: ii157.jpg
    title: Весна 2006 110х90
- src: ii147.jpg
+ - src: ii147.jpg
    title: Весна 2007 100х100
  - src: ii107.jpg
    title: Минуле 2020 100х100
