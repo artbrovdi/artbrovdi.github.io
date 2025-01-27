@@ -8,14 +8,10 @@ sort_by: Name
 resources:
   - src: ii7.jpg
     title: Кошара. 2011. Картон, олія. 70х70. Sheepfold. 2011. Cardboard, oil. 
-  - src: ii8.jpg
-    title: Подвір'я. 2010. Полотно, олія. 100х100. Court. 2010. Canvas, oil.
-  - src: i10.jpg
+   - src: i10.jpg
     title: Тумани. 2010. Полотно, олія. 100х200. Fogs. 2010. Canvas, oil. 
   - src: i18.jpg
     title: На Тисі. 2010. Полотно, олія. 100х100. At Tysa river. 2010. Canvas, oil. 
-  - src: ii19.jpg
-    title: Мукачівський замок. 2010. Полотно, олія. 80х100. Mukachevo castle. 2010. Canvas, oil.
   - src: i28.jpg
     title: Бодрий Моцi. 2010. Полотно, олія. 80х80. Cheerful Motsi. 2010. Canvas, oil.
   - src: i95.jpg
@@ -26,8 +22,6 @@ resources:
     title: Весна 2008 80х80
   - src: i106.jpg
     title: Старий двір 2006 95х95
-  - src: ii107.jpg
-    title: Минуле 2020 100х100
   - src: i122.jpg
     title: Іділія 2008 90х90
   - src: i123.jpg
@@ -48,21 +42,15 @@ resources:
     title: Весна 2007 90х90
   - src: i146.jpg
     title: Праздник Богородиці в Мукачеві 2006 100х100
-  - src: ii147.jpg
-    title: Весна 2007 100х100
   - src: i148.jpg
     title: Осінь в горах 2010 90х90
   - src: i153.jpg
     title: Весна 2009 90х90
   - src: i155.jpg
     title: Рідний край 2002 80х60 картон
-  - src: ii157.jpg
-    title: Весна 2006 110х90
   - src: i158.jpg
     title: Гуцулки 2010 70х50 картон
-  - src: ii159.jpg
-    title: Спокій високі Татри 2013 100х100
-  - src: i162.jpg
+    - src: i162.jpg
     title: Озеро Синевір 1998 100х70
   - src: i164.jpg
     title: Весна 2020 100х100
