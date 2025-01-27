@@ -6,7 +6,7 @@ title: Твори в приватних колекціях (42 картини)
 sort_by: Name
 #categories: ["Твори в приватних колекціях"]
 resources:
- - src: ii8.jpg
+  - src: ii8.jpg
     title: Подвір'я. 2010. Полотно, олія. 100х100. Court. 2010. Canvas, oil.
 #- src: ii19.jpg
 #title: Мукачівський замок. 2010. Полотно, олія. 80х100. Mukachevo castle. 2010. Canvas, oil.
