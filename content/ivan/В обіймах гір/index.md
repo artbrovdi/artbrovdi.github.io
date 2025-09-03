@@ -1,13 +1,11 @@
 ---
 
 featured_image: i106.jpg
-title: В обіймах гір (39 картин)
+title: В обіймах гір (29 картин)
 #type: gallery
 sort_by: Name
 #categories: ["Іван Бровді"]
 resources:
-  - src: ii7.jpg
-    title: Кошара. 2011. Картон, олія. 70х70. Sheepfold. 2011. Cardboard, oil. 
   - src: i10.jpg
     title: Тумани. 2010. Полотно, олія. 100х200. Fogs. 2010. Canvas, oil. 
   - src: i18.jpg
@@ -26,8 +24,6 @@ resources:
     title: Іділія 2008 90х90
   - src: i123.jpg
     title: Комятськи теплиці 2013 100х100 
-  - src: i124.jpg
-    title: Монастир святого Пантелеймона 2020 90х90
   - src: i128.jpg
     title: Радісний день 2010 100х100
   - src: i132.jpg
@@ -44,14 +40,10 @@ resources:
     title: Праздник Богородиці в Мукачеві 2006 100х100
   - src: i148.jpg
     title: Осінь в горах 2010 90х90
-  - src: i153.jpg
-    title: Весна 2009 90х90
   - src: i155.jpg
     title: Рідний край 2002 80х60 картон
   - src: i158.jpg
     title: Гуцулки 2010 70х50 картон
-  - src: i162.jpg
-    title: Озеро Синевір 1998 100х70
   - src: i164.jpg
     title: Весна 2020 100х100
   - src: i167.jpg
@@ -70,7 +62,7 @@ resources:
     title: Збір картоплі 2007 90х90
   - src: i183.jpg
     title: Закарпатська весна 2001 70х70 картон без підпису
-  - src: i184.jpg
-    title: Вівчарь 2006 70х60 картон
+  - src: i207.jpg
+    title: Вечір на Ораві 2002 85х60 картон, олія
 
 ---

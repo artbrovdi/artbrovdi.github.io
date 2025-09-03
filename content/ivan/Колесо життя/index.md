@@ -1,23 +1,17 @@
 ---
 
 featured_image: i102.jpg
-title: Колесо життя (77 картин)
+title: Колесо життя (64 картини)
 #type: gallery
 sort_by: Name
 #categories: ["Іван Бровді"]
 resources:
   - src: i11.jpg
     title: Санітарна рубка в Карпатах. 1980-ті. Полотно, олія. 100х70. Sanitary felling in Carpathians. 1980s. Canvas, oil.
-  - src: ii20.jpg
-    title: Малиновий леквар. 2010. Полотно, олія. 100х100 Raspberry jam. 2010. Canvas, oil.
-  - src: ii21.jpg
-    title: Циганський двір. 2010. Полотно, олія. 80х100. Gypsy court. 2010. Canvas, oil.
   - src: i22.jpg
     title: Вікно. 2011. Полотно, олія. 80x80. Window. 2011. Canvas, oil.
   - src: i24.jpg
     title: Полянські косиці. 2010. Полотно, олія. 100x100. Poliana flowers. 2010. Canvas, oil.
-  - src: ii25.jpg
-    title: Свято. 2012. Полотно, олія. 100х100. Holiday. 2012. Canvas, oil.
   - src: i26.jpg
     title: Христос воскрес. 2012. Полотно, олія. 80х80. Christ is risen. 2012. Canvas, oil.
   - src: i27.jpg
@@ -26,36 +20,20 @@ resources:
     title: Страпачки. 2010. Полотно, олія. 100х100. Strapachki. 2010. Canvas, oil
   - src: i30.jpg
     title: Палять хмиз. 2010. Полотно, олія. 100х100. Burning brushwood. 2010. Canvas, oil.
-  - src: ii31.jpg
-    title: Напередодні свята. 2010. Полотно, олія. 100x100. Holiday eve. 2010. Canvas, oil.
-  - src: ii32.jpg
-    title: Прiмаш. 2010. Полотно, олія. 100х100. First violin. 2010. Canvas, oil.
   - src: i33.jpg
     title: Розiп'ятий. 2010. Полотно, олія. 100х100. The crucified. 2010. Canvas, oil.
   - src: i34.jpg
     title: Адам і Єва. 2010. Полотно, олія. 100х100. Adam and Eve. 2010. Canvas, oil.
   - src: i37.jpg
     title: Баба Василина. 2010. Полотно, олія. 100х100. Granny Vasylyna. 2010. Canvas, oil.
-  - src: ii38.jpg
-    title: Присвята Федору Манайлу. 2010. Полотно, олія. 100х100. Dedication to Fedir Manailo. 2010. Canvas, oil.
   - src: i39.jpg
     title: Ніч на Тисі. 2010. Полотно, олія. 100х100. Night at Tysa river. 2010. Canvas, oil.
-  - src: ii40.jpg
-    title: Дитинство. 2010. Полотно, олія. 100х100. Childhood. 2010. Canvas, oil.
-  - src: ii41.jpg
-    title: Зелена неділя. 2017. Полотно, олія. 100х100. Holiday of Trinity. 2017. Canvas, oil.
   - src: i42.jpg
     title: Художник і вівчар. 2010. Полотно, олія. 100х100. Artist and shepherd. 2010. Canvas, oil.
   - src: i43.jpg
     title: Циганська ніч. 2010. Полотно, олія. 100х100. Gypsy night. 2010. Canvas, oil.
-  - src: ii44.jpg
-    title: Медяники. 2010. Полотно, олія. 100х100. Honey cakes. 2010. Canvas, oil.
-  - src: ii45.jpg
-    title: Дежко. 2010. Полотно, олія. 100х100. Dezhko. 2010. Canvas, oil.
   - src: i46.jpg
     title: Старий колодязь. 2010. Полотно, олія. 100х100. Old well. 2010. Canvas, oil.
-  - src: i47.jpg
-    title: Сніданок. 2010. Полотно, олія. 100х100. Breakfast. 2010. Canvas, oil.
   - src: i48.jpg
     title: Черешнi. 2010. Полотно, олія. 100х100. Cherries. 2010. Canvas, oil.
   - src: i49.jpg
@@ -72,8 +50,6 @@ resources:
     title: Сон в колибі. 2012. Полотно, олія. 100х100. Sleep in the hut. 2012. Canvas, oil.
   - src: i61.jpg
     title: Треба встигнути. 2010. Полотно, олія. 100х100. Needful to be in time. 2010. Canvas, oil.
-  - src: i90.jpg
-    title: Смоловий Іван 2014 100х100
   - src: i91.jpg
     title: Перед Різдвом 2022 100х100
   - src: i92.jpg
@@ -138,8 +114,6 @@ resources:
     title: Заблудша отара 1986 90х65
   - src: i141.jpg
     title: Остання надія 2013 100х100
-  - src: i143.jpg
-    title: Вівці мої вівці 2000 70х60 картон
   - src: i144.jpg
     title: Букет кохання 2016 100х100
   - src: i150.jpg

@@ -1,7 +1,7 @@
 ---
 
 featured_image: i077.jpg
-title: Митець і муза (38 картин)
+title: Митець і муза (24 картини)
 #type: gallery
 sort_by: Name
 #categories: ["Іван Бровді"]
@@ -12,24 +12,12 @@ resources:
     title: Наша бесіда. 2010. Полотно, олія. 100х100. Our native tongue. 2010. Canvas, oil.
   - src: i060.jpg
     title: Життя продовжується. 2012. Полотно, олія. 100х100. Life goes on. 2012. Canvas, oil.
-  - src: ii62.jpg
-    title: Портрет художника. 2011. Полотно, олія. 100x80. Portrait of the artist. 2011. Canvas, oil.
-  - src: i063.jpg
-    title: Портрет дружини. 2010. Полотно, олія. 80х60. Portrait of wife. 2010. Canvas, oil. 80x60.
   - src: i064.jpg
     title: Закосичена. 1990. Полотно, олія. 70х90. Adorned with flowers. 1990. Canvas, oil. 70x90.
-  - src: ii65.jpg
-    title: Біла мачка. 2010. Полотно, олія. 100х70. White cat. 2010. Canvas, oil.
-  - src: ii66.jpg
-    title: Ранок. 2010. Полотно, олія. 100х100. Morning. 2010. Canvas, oil. 100x100.   
-  - src: ii67.jpg
-    title: Модель. 1997. Полотно, олія. 100х50. Model. 1997. Canvas, oil.   
   - src: i068.jpg
     title: Маточка-спогад. 2012. Полотно, олія. 100х100. Godmother-recollection. 2012. Canvas, oil.
   - src: i069.jpg
     title: Самотня. 2011. Полотно, олія. 90х90. A lonely one. 2011. Canvas, oil. 
-  - src: ii70.jpg
-    title: Карпатська Венера. 2010. Полотно, олія. 100х100 Carpathian Venus. 2010. Canvas, oil.
   - src: ii71.jpg
     title: Ранок. 2010. Полотно, олія. 100х100. Morning. 2010. Canvas, oil.
   - src: i072.jpg
@@ -50,16 +38,8 @@ resources:
     title: Заробітчанка. 2010. Полотно, олія. 100х100. Guest worker. 2010. Canvas, oil.
   - src: ii83.jpg
     title: Цімбори. 2010. Полотно, олія.100x100. Pals. 2010. Canvas, oil.
-  - src: ii84.jpg
-    title:  Яблука для Єви. 2010. Полотно, олія. 100х100. Apple for Eve. 2010. Canvas, oil.
   - src: i085.jpg
     title: Руда кішка. 2010. Полотно, олія. 100х100. Red cat. 2010. Canvas, oil.
-  - src: ii86.jpg
-    title: Натхнення. 2010. Полотно, олія. 100х100. Inspiration. 2010. Canvas, oil.   
-  - src: ii87.jpg
-    title: Ганьблива. 2010. Полотно, олія. 100х100. Shy girl. 2010. Canvas, oil. 
-  - src: ii88.jpg
-    title: Людина і час. 2010. Полотно, олія. 100х100. Man and time. 2010. Canvas, oil.
   - src: i089.jpg
     title: Біля озера. 1980. Полотно, олія. 80х60. At lake. 1980. Canvas, oil.
   - src: i116.jpg
@@ -80,7 +60,7 @@ resources:
     title: Земна благодать 2020 100х100
   - src: i176.jpg
     title: Короновірусна розмова 2020 90х90
-  - src: ii190.jpg
-    title: Золотий дощ 2014 100х100
+  - src: i71.jpg
+    title: Вікно 2010 70х70 полотно,олія
 
 ---
