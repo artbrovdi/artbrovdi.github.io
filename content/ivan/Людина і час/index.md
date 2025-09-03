@@ -1,7 +1,7 @@
 ---
 
 featured_image: i13.jpg
-title: Людина і час (16 картин)
+title: Людина і час (6 картин)
 #type: gallery
 sort_by: Name
 #categories: ["Іван Бровді"]
