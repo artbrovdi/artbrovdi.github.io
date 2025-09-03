@@ -1,7 +1,7 @@
 ---
 
 featured_image: l11.jpg
-title: Кольори кохання (15 картин)
+title: Кольори кохання (16 картин)
 #type: gallery
 sort_by: Name
 #categories: ["Лариса Бровді"]
@@ -36,6 +36,8 @@ resources:
     title: Закохані 2011 60х60
   - src: l62.jpg 
     title: Портрет жінки 2002 60х85 картон
+  - src: l89.jpg 
+    title: Закохані 2000 65х80 картон олія
 
 
 ---
