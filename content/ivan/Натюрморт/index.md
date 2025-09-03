@@ -1,7 +1,7 @@
 ---
 
 featured_image: i125.jpg
-title: Натюрморт (12 картин)
+title: Натюрморт (7 картин)
 #type: gallery
 sort_by: Name
 #categories: ["Іван Бровді"]
@@ -22,13 +22,6 @@ resources:
     title:	Нахилена ваза 2010 100х100
   - src: i178.jpg	
     title:	Старі символи Севлюша 2020 90х90
-  - src: ii185.jpg	
-    title:	Натюрморт  2018 90х90
-  - src: ii186.jpg	
-    title:	Натюрморт  2015 90х90
-  - src: ii187.jpg	
-    title:	Білі квіти  2015 90х90
-  - src: ii188.jpg	
-    title:	Косиці на вікні  2015 90х90
+
 
 ---
