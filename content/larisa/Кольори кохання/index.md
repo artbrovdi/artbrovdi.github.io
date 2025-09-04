@@ -1,7 +1,7 @@
 ---
 
 featured_image: l11.jpg
-title: Кольори кохання (16 картин)
+title: Кольори кохання (15 картин)
 #type: gallery
 sort_by: Name
 #categories: ["Лариса Бровді"]
