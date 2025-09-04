@@ -28,8 +28,6 @@ resources:
     title: Баба Василина. 2010. Полотно, олія. 100х100. Granny Vasylyna. 2010. Canvas, oil.
   - src: i39.jpg
     title: Ніч на Тисі. 2010. Полотно, олія. 100х100. Night at Tysa river. 2010. Canvas, oil.
-  - src: i42.jpg
-    title: Художник і вівчар. 2010. Полотно, олія. 100х100. Artist and shepherd. 2010. Canvas, oil.
   - src: i43.jpg
     title: Циганська ніч. 2010. Полотно, олія. 100х100. Gypsy night. 2010. Canvas, oil.
   - src: i46.jpg

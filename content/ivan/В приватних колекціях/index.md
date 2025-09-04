@@ -6,10 +6,39 @@ title: Твори в приватних колекціях (94 картини)
 sort_by: Name
 #categories: ["Твори в приватних колекціях"]
 resources:
+
   - src: ii8.jpg #2 пробела
     title: Подвір'я. 2010. Полотно, олія. 100х100. Court. 2010. Canvas, oil. #4 пробела
+  - src: ii1.jpg
+    title: Наречена. 1960-ті. Полотно, олія. 80х60. Bride. 1960s. Canvas, oil.
+  - src: ii3.jpg
+    title: Довжанські гори. 1960-ті. Полотно, олія. 60Х80. Dovhe mountains. 1960s. Canvas, oil.
+  - src: ii4.jpg
+    title: Дівчина з села Довге. 1960-ті. Полотно, олія. 100x70. Girl from Dovhe village. 1960s. Canvas, oil.
+  - src: ii5.jpg
+    title: Березнянськi молодицi. 1960-ті. Картон, олія. 80×60. Bereznyi young ladies. 1960s. Cardboard, oil.
+  - src: ii6.jpg
+    title: Село Гусний. 1960-ті. Картон, олія. 70х60. Husnyi village. 1960s. Cardboard, oil.
+  - src: ii9.jpg
+    title: Дівчина з Березного. 1960-ті. Картон, олія. 70x60. Girl from Bereznyi. 1960s. Cardboard, oil.
+  - src: ii14.jpg
+    title: Поминальний день. 1970-ті. Полотно, олія. 90х100. Praying for deceased. 1970s. Cardboard, oil.
+  - src: ii15.jpg
+    title: Випікають хлiб. 1970-ті. Полотно, олія. 70x70. Baking bread. 1970s. Canvas, oil.
+  - src: ii17.jpg
+    title: Санаторій "Карпати". 1960-ті. Картон, олiя 80х60. "Karpaty" sanatorium. 1960s. Cardboard, oil.
+  - src: ii12.jpg
+    title: Народження. 1960-ті. Картон, олія. 80х60. Birth. 1960s. Cardboard, oil.
+  - src: ii16.jpg
+    title: Додому. 2010. Картон, олія. 60x80. Homewards. 2010. Cardboard, oil.  
   - src: ii19.jpg
     title: Мукачівський замок. 2010. Полотно, олія. 80х100. Mukachevo castle. 2010. Canvas, oil.
+  - src: ii42.jpg
+    title: Художник і вівчар. 2010. Полотно, олія. 100х100. Artist and shepherd. 2010. Canvas, oil.
+  - src: ii161.jpg
+    title:	Мукачівський монастир 1980-ті 25х28
+  - src: i189.jpg
+    title: На конях 1970-і
   - src: ii159.jpg
     title: Спокій високі Татри 2013 100х100
   - src: ii157.jpg
