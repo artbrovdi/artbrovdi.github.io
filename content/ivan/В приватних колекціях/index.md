@@ -1,7 +1,7 @@
 ---
 
 featured_image: ii192.jpg
-title: Твори в приватних колекціях (95 картини)
+title: Твори в приватних колекціях (95 картин)
 #type: gallery
 sort_by: Name
 #categories: ["Твори в приватних колекціях"]
