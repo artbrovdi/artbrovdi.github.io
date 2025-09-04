@@ -6,7 +6,7 @@ title: Твори в приватних колекціях (34 картини)
 sort_by: Name
 #categories: ["Твори в приватних колекціях"]
 resources:
- - src: ll28.jpg 
+  - src: ll28.jpg 
       title: При надії 2010 100х80
 
 ---
