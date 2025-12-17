@@ -7,42 +7,50 @@
 
   gtag('config', 'G-MV6QKE3RPY');
 </script>
-<header class="header">
+<footer class="footer">
   <div class="container">
-    <div class="header-inner">
-      <!-- Це логотип або назва сайту з config -->
-      <a class="header-brand" href="{{ .Site.BaseURL }}">
-        {{ with .Site.Params.logo }}
-          <img src="{{ . }}" alt="{{ $.Site.Title }}" />
-        {{ else }}
-          {{ .Site.Title }}
-        {{ end }}
-      </a>
-      
-      <!-- Це навігаційне меню (якщо є) -->
-      {{ if .Site.Menus.main }}
-        <nav class="header-nav">
-          {{ range .Site.Menus.main }}
-            <a class="header-nav-link" href="{{ .URL }}">{{ .Name }}</a>
-          {{ end }}
-        </nav>
-      {{ end }}
-    </div>
-
-    <!-- ВСТАВКА: Заголовок сторінки -->
-    <div class="header-title">
-      <h1>{{ .Title }}</h1>
-    </div>
 
     <!-- ВСТАВКА: Ваш текст із _index.md -->
-    {{ if .IsHome }} <!-- Показувати текст тільки на головній -->
+    {{ if .IsHome }}
       {{ with .Content }}
-        <div class="header-content" style="max-width: 800px; margin: 1rem auto; text-align: center; line-height: 1.6;">
+        <div class="footer-content" style="max-width: 800px; margin: 0 auto 3rem auto; text-align: center; line-height: 1.6;">
           {{ . }}
         </div>
+        <hr style="border: 0; border-top: 1px solid #eee; margin: 2rem auto; max-width: 200px;">
       {{ end }}
     {{ end }}
     <!-- КІНЕЦЬ ВСТАВКИ -->
 
+    <!-- Соціальні мережі (стандартний код теми) -->
+    {{ with .Site.Params.social }}
+    <section class="social">
+      {{ range . }}
+        <a href="{{ .url }}" target="_blank" rel="noopener" title="{{ .name }}">
+          {{ if .icon }}
+            <!-- Якщо у вас налаштовані іконки -->
+            <i data-feather="{{ .icon }}"></i>
+          {{ else }}
+            <!-- Якщо іконок немає, просто назва -->
+            {{ .name }}
+          {{ end }}
+        </a>
+      {{ end }}
+    </section>
+    {{ end }}
+
+    <!-- Копірайт -->
+    <section class="copyright">
+      &copy; {{ now.Year }} {{ .Site.Title }}. 
+      {{ if .Site.Params.showThemeCredits }}
+        Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> & <a href="https://github.com/nicokaiser/hugo-theme-gallery/" target="_blank" rel="noopener">Gallery</a>
+      {{ end }}
+    </section>
   </div>
-</header>
+</footer>
+
+<!-- Скрипт для іконок (Feather Icons), який використовує ця тема -->
+<script>
+  if (typeof feather !== 'undefined') {
+    feather.replace();
+  }
+</script>
