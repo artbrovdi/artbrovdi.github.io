@@ -1,7 +1,7 @@
 ---
 
 featured_image: i077.jpg
-title: Митець і муза (24 картини)
+title: Митець і муза (25 картин)
 #type: gallery
 sort_by: Name
 #categories: ["Іван Бровді"]
