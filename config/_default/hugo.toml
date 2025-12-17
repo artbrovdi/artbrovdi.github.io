@@ -1,6 +1,7 @@
 copyright = "© Karolina Brovdi"
 defaultContentLanguage = "ua"
 disableKinds = ["taxonomy"]
+baseURL = "https://artbrovdi.github.io/"
 enableRobotsTXT = true
 languageCode = "uk-ua"
 timeZone = "Europe/Kyiv"
@@ -59,7 +60,7 @@ title = "Картини та скульптури Іван та Лариса Б�
     limit = 100
 
 [sitemap]
-  changeFreq = ''
+  changeFreq = 'weekly'
   disable = false
   filename = 'sitemap.xml'
-  priority = -1
+  priority = 0.5
