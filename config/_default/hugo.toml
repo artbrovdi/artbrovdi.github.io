@@ -57,3 +57,9 @@ title = "Картини та скульптури Іван та Лариса Б�
     id = 'G-MV6QKE3RPY'
   [services.rss]
     limit = 100
+
+[sitemap]
+  changeFreq = ''
+  disable = false
+  filename = 'sitemap.xml'
+  priority = -1
