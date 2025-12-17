@@ -14,6 +14,8 @@ resources:
     title: Життя продовжується. 2012. Полотно, олія. 100х100. Life goes on. 2012. Canvas, oil.
   - src: i064.jpg
     title: Закосичена. 1990. Полотно, олія. 70х90. Adorned with flowers. 1990. Canvas, oil. 70x90.
+  - src: i067.jpg
+    title: В майстерні. 1985. Картон, олія. 70х65.
   - src: i068.jpg
     title: Маточка-спогад. 2012. Полотно, олія. 100х100. Godmother-recollection. 2012. Canvas, oil.
   - src: i069.jpg
