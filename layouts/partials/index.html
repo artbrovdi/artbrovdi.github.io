@@ -1,0 +1,37 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MV6QKE3RPY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MV6QKE3RPY');
+</script>
+{{ define "main" }}
+  
+  <!-- 1. ГАЛЕРЕЯ -->
+  <section class="gallery">
+    <div id="gallery" style="visibility: hidden; height: 1px; overflow: hidden">
+      {{ range .Resources.ByType "image" }}
+        {{ $original := . }}
+        {{ $thumbnail := .Resize "300x" }}
+        <a class="gallery-item" href="{{ .RelPermalink }}" data-pswp-src="{{ .RelPermalink }}" data-pswp-width="{{ .Width }}" data-pswp-height="{{ .Height }}" title="{{ .Title }}" itemscope itemtype="https://schema.org/ImageObject" style="aspect-ratio: {{ .Width }} / {{ .Height }}">
+          <img src="{{ $thumbnail.RelPermalink }}" width="{{ $thumbnail.Width }}" height="{{ $thumbnail.Height }}" alt="{{ .Title }}" />
+          <meta itemprop="contentUrl" content="{{ .RelPermalink }}" />
+          {{ with .Title }}<span itemprop="caption description">{{ . }}</span>{{ end }}
+        </a>
+      {{ end }}
+    </div>
+  </section>
+
+  <!-- 2. ВАШ ТЕКСТ -->
+  {{ with .Content }}
+    <section class="home-text" style="max-width: 900px; margin: 4rem auto 2rem auto; padding: 0 1rem; text-align: center; line-height: 1.6; font-size: 1.1em;">
+        <!-- Разделитель -->
+        <hr style="border: 0; border-top: 1px solid #ddd; margin-bottom: 3rem; width: 50%;">
+        
+        {{ . }}
+    </section>
+  {{ end }}
+
+{{ end }}
