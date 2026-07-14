@@ -1,5 +1,5 @@
 ---
-description: Це мистецький простір, який обʼєднує живопис та скульптуру. Це місце, де традиція Карпат зустрічається з сучасністю. Закарпаття, Мукачево. Арт-директорка Кароліна Бровді +38(066)305-26-13
+description: An art space that integrates painting and sculpture, where Carpathian traditions meet modernity. Mukachevo, Zakarpattia. Art Director - Karolina Brovdi +38 (066) 305-26-13
 #lastmod: 2026-07-13
 title: Ivan & Larisa Brovdi Collections | Art & Sculpture
 featured_image: home.jpg # default: first image in this directory
