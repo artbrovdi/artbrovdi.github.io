@@ -13,7 +13,7 @@ resources:
   - src: l10.jpg 
     title: Побачення 2006 70х60
   - src: l11.jpg 
-    title: Весна 2010 70х70
+    title: Весна 2007 70х70
   - src: l16.jpg 
     title: Наречена з Іршави 2014 90х90
   - src: l18.jpg 
