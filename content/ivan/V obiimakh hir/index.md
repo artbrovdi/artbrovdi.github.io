@@ -2,7 +2,7 @@
 
 featured_image: i106.jpg
 title: В обіймах гір (29 картин)
-#type: gallery
+type: gallery
 sort_by: Name
 #categories: ["Іван Бровді"]
 resources:
